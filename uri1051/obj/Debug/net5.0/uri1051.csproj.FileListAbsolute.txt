@@ -1,0 +1,16 @@
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\uri1051.exe
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\uri1051.deps.json
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\uri1051.runtimeconfig.json
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\uri1051.runtimeconfig.dev.json
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\uri1051.dll
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\ref\uri1051.dll
+C:\Users\andre\source\repos\uri1051\uri1051\bin\Debug\net5.0\uri1051.pdb
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.csprojAssemblyReference.cache
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.AssemblyInfoInputs.cache
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.AssemblyInfo.cs
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.csproj.CoreCompileInputs.cache
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.dll
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\ref\uri1051.dll
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.pdb
+C:\Users\andre\source\repos\uri1051\uri1051\obj\Debug\net5.0\uri1051.genruntimeconfig.cache
